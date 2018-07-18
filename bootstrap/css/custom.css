@@ -1,0 +1,30 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+.jumbotron{
+	text-align: center;
+	background-image: url('../images/heroo_img.jpeg');
+	
+}
+
+.navbar-nav{
+	font-family: 'Dancing Script', courier,cursive;
+}
+.jumbotron h1{
+	font-family: 'Dancing Script', courier,cursive;
+	margin-top: 0px;
+	color: white;
+}
+
+.jumbotron p{
+	font-family: 'Wendy One',courier, sans-serif;
+	    font-size: 22px;
+	     font-weight: 900; 
+	     color: blue;
+
+}
+.btn-lg{
+	font-size: 26px;
+}
